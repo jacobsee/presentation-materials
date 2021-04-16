@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 7200 10800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Banner" transform="matrix(1,0,0,1,48.4412,6089.16)">
+        <path d="M1074.05,1083.46C1040.17,1073.94 924.442,1073.86 750.089,1086.67C540.76,1102.04 259.278,1067.41 258.464,1069.6C251.38,1088.69 449.985,1265.83 608.588,1370.11C757.873,1468.27 924.35,1610.93 928.889,1623.95C943.484,1665.78 220.486,2209.5 262.803,2295.76C266.656,2303.61 646.78,2263.46 824.536,2250.89C1128.23,2229.41 1434.02,2212.58 1738.58,2214.91C1746.78,2214.97 1811.25,2222.18 1813.19,2208.27C1813.3,2207.45 1813.2,2206.61 1812.99,2205.81C1807.17,2184.63 1604.57,1981.65 1596.88,1982.09C1547.47,1984.9 1123.65,2007.05 1127.39,1976.99" style="fill:rgb(255,157,252);stroke:black;stroke-width:41.67px;"/>
+        <path d="M5986.06,984.912C6042.52,989.457 6359.51,1013.25 6428.12,1015.93C6581.62,1021.94 6836.74,1005.08 6836.74,1005.08C6836.74,1005.08 6522.21,1323.53 6500.88,1352.81C6453.09,1418.42 6206.12,1641.47 6206.37,1642C6208.93,1647.45 6432.75,1870.17 6540.12,1951.95C6663.35,2045.81 6839.75,2224.36 6838.13,2224.36C6329.08,2224.36 5216.49,2239.67 5227.84,2226.04C5240.54,2210.81 5442.09,1960 5429.87,1975.12C5424.16,1982.18 5634.71,1983.84 5788.3,1989.13C5878.11,1992.22 5952.41,1981.28 5953.5,1980.62" style="fill:rgb(255,157,252);stroke:black;stroke-width:41.67px;"/>
+        <path d="M1129.53,1984.38C1129.53,1984.38 1109.34,1583.11 1107.08,1503.79C1097.34,1161.52 1058.41,806.439 1071.31,464.538C1071.62,456.224 1067.88,422.832 1077.92,417.254C1111.62,398.533 1392.37,414.118 1429.54,415.299C1688.97,423.539 1942.96,401.023 2174.61,399.497C2519.74,397.224 2763.79,369.153 3108.96,372.84C3869.24,380.962 4311.13,400.956 5126.2,383.725C5321.05,379.605 5472.28,399.347 5606.63,399.147C5614.52,399.135 6000.31,396.317 5998.52,418.422C5994.37,469.652 5992.37,630.996 5990.73,694.774C5987.44,823.005 5981.21,1028.02 5984.18,1198.62C5987.15,1369.74 5978.44,1611.52 5975.21,1706.69C5974.03,1741.41 5962.83,1945.04 5957.06,1976.14C5952.79,1999.15 5521.82,1977.95 5515.62,1977.87C5256.97,1974.54 4816,1944.25 4270.9,1938.97C3912.67,1935.5 3480.5,1956.81 3127.47,1954.48C2809.14,1952.39 2479.64,1920.42 2161.63,1933.46C1991.27,1940.44 1297.52,2027.21 1129.53,1984.38Z" style="fill:rgb(255,197,253);stroke:black;stroke-width:41.67px;"/>
+        <g transform="matrix(28.45,0,0,25.1506,-44225.2,-95617.7)">
+            <text x="1606.16px" y="3845.49px" style="font-family:'Noteworthy-Light', 'Noteworthy';font-weight:300;font-size:24.85px;">Ex<tspan x="1631.63px 1638.93px 1649.43px " y="3845.49px 3845.49px 3845.49px ">ter</tspan>na<tspan x="1681.15px " y="3845.49px ">l</tspan></text>
+        </g>
+        <g transform="matrix(28.45,0,0,25.1506,-42453.5,-94994.4)">
+            <text x="1606.16px" y="3845.49px" style="font-family:'Noteworthy-Light', 'Noteworthy';font-weight:300;font-size:24.85px;">Sy<tspan x="1630.82px 1640.58px 1647.88px 1658.38px 1673.69px " y="3845.49px 3845.49px 3845.49px 3845.49px 3845.49px ">stems</tspan></text>
+        </g>
+    </g>
+    <g id="Banner1" serif:id="Banner" transform="matrix(1,0,0,1,38.7073,-72.0607)">
+        <path d="M1074.05,1083.46C1040.17,1073.94 924.442,1073.86 750.089,1086.67C540.76,1102.04 259.278,1067.41 258.464,1069.6C251.38,1088.69 449.985,1265.83 608.588,1370.11C757.873,1468.27 924.35,1610.93 928.889,1623.95C943.484,1665.78 220.486,2209.5 262.803,2295.76C266.656,2303.61 646.78,2263.46 824.536,2250.89C1128.23,2229.41 1434.02,2212.58 1738.58,2214.91C1746.78,2214.97 1811.25,2222.18 1813.19,2208.27C1813.3,2207.45 1813.2,2206.61 1812.99,2205.81C1807.17,2184.63 1604.57,1981.65 1596.88,1982.09C1547.47,1984.9 1123.65,2007.05 1127.39,1976.99" style="fill:rgb(255,157,252);stroke:black;stroke-width:41.67px;"/>
+        <path d="M5986.06,984.912C6042.52,989.457 6359.51,1013.25 6428.12,1015.93C6581.62,1021.94 6836.74,1005.08 6836.74,1005.08C6836.74,1005.08 6522.21,1323.53 6500.88,1352.81C6453.09,1418.42 6206.12,1641.47 6206.37,1642C6208.93,1647.45 6432.75,1870.17 6540.12,1951.95C6663.35,2045.81 6839.75,2224.36 6838.13,2224.36C6329.08,2224.36 5216.49,2239.67 5227.84,2226.04C5240.54,2210.81 5442.09,1960 5429.87,1975.12C5424.16,1982.18 5634.71,1983.84 5788.3,1989.13C5878.11,1992.22 5952.41,1981.28 5953.5,1980.62" style="fill:rgb(255,157,252);stroke:black;stroke-width:41.67px;"/>
+        <path d="M1129.53,1984.38C1129.53,1984.38 1109.34,1583.11 1107.08,1503.79C1097.34,1161.52 1058.41,806.439 1071.31,464.538C1071.62,456.224 1067.88,422.832 1077.92,417.254C1111.62,398.533 1392.37,414.118 1429.54,415.299C1688.97,423.539 1942.96,401.023 2174.61,399.497C2519.74,397.224 2763.79,369.153 3108.96,372.84C3869.24,380.962 4311.13,400.956 5126.2,383.725C5321.05,379.605 5472.28,399.347 5606.63,399.147C5614.52,399.135 6000.31,396.317 5998.52,418.422C5994.37,469.652 5992.37,630.996 5990.73,694.774C5987.44,823.005 5981.21,1028.02 5984.18,1198.62C5987.15,1369.74 5978.44,1611.52 5975.21,1706.69C5974.03,1741.41 5962.83,1945.04 5957.06,1976.14C5952.79,1999.15 5521.82,1977.95 5515.62,1977.87C5256.97,1974.54 4816,1944.25 4270.9,1938.97C3912.67,1935.5 3480.5,1956.81 3127.47,1954.48C2809.14,1952.39 2479.64,1920.42 2161.63,1933.46C1991.27,1940.44 1297.52,2027.21 1129.53,1984.38Z" style="fill:rgb(255,197,253);stroke:black;stroke-width:41.67px;"/>
+        <g transform="matrix(28.45,0,0,25.1506,-44048.7,-95189.5)">
+            <text x="1606.16px" y="3845.49px" style="font-family:'Noteworthy-Light', 'Noteworthy';font-weight:300;font-size:33.134px;">Q<tspan x="1631.13px 1644.84px 1658.18px 1671.19px 1682.45px 1687.3px 1702.5px " y="3845.49px 3845.49px 3845.49px 3845.49px 3845.49px 3845.49px 3845.49px ">uestion</tspan>s</text>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(0.918604,0,0,0.889407,-1369.74,395.34)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">p<tspan x="2717.5px 2938px 3019.14px " y="2890.25px 2890.25px 2890.25px ">ain</tspan> po<tspan x="3731.43px 3812.56px 4004.2px 4132.12px " y="2890.25px 2890.25px 2890.25px 2890.25px ">ints</tspan></text>
+        </g>
+        <g transform="matrix(0.918604,0,0,0.889407,-1354.99,993.315)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">how / wha<tspan x="4267.51px 4415.35px " y="2890.25px 2890.25px ">t </tspan>/ wh<tspan x="5286.92px " y="2890.25px ">y</tspan></text>
+        </g>
+        <g transform="matrix(0.918604,0,0,0.889407,-1347.68,1540.53)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">ho<tspan x="2898.18px 3046.02px " y="2890.25px 2890.25px ">t </tspan>spo<tspan x="3714.01px 3841.93px " y="2890.25px 2890.25px ">ts</tspan></text>
+        </g>
+        <g transform="matrix(0.918604,0,0,0.889407,-1343.08,2091.51)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">as<tspan x="2919.59px 3107.74px 3298.38px 3591.56px 3778.22px 3926.05px 3995.24px 4201.81px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">sumption</tspan>s</text>
+        </g>
+        <g transform="matrix(0.764587,0,0,0.740286,-910.995,-3943.72)">
+            <g id="keep-it-fuzzy" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+        <g transform="matrix(-5.4532e-05,0.764587,-0.740286,-5.27988e-05,7566.52,1824.5)">
+            <g id="keep-it-fuzzy1" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+        <g transform="matrix(-0.764424,0.0158069,-0.0153044,-0.740127,2496.5,10795.6)">
+            <g id="keep-it-fuzzy2" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+        <g transform="matrix(0.0183191,-0.764368,0.740073,0.0177368,-6136.12,5998.97)">
+            <g id="keep-it-fuzzy3" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(0.918604,0,0,0.889407,1189.1,6636.48)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">e<tspan x="2687.63px 2931.53px 2996.74px 3192.86px " y="2890.25px 2890.25px 2890.25px 2890.25px ">xist</tspan>ing s<tspan x="4103.75px 4295.39px 4491.5px 4627.39px 4816.54px 5093.79px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">ystems</tspan></text>
+        </g>
+        <g transform="matrix(0.918604,0,0,0.889407,1192.06,6167.51)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:398.206px;">t<tspan x="2666.23px 2873.3px 2954.43px 3101.76px 3302.86px 3468.61px 3659.75px 3880.26px 4020.13px 4156.01px 4359.6px 4442.72px 4630.87px 4820.02px 4979.3px 5181.39px 5262.53px 5462.13px 5643.31px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">hird-party services</tspan></text>
+        </g>
+        <g transform="matrix(-5.4532e-05,0.764587,-0.740286,-5.27988e-05,10110.6,7467.66)">
+            <g id="keep-it-fuzzy4" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+        <g transform="matrix(0.0183191,-0.764368,0.740073,0.0177368,-3600.98,10075)">
+            <g id="keep-it-fuzzy5" serif:id="keep it fuzzy">
+                <text x="1975.22px" y="9789.08px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:833.333px;fill:rgb(225,29,0);stroke:rgb(255,0,1);stroke-width:1.33px;stroke-linecap:butt;stroke-miterlimit:2;">*</text>
+            </g>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(0.918604,0,0,0.889407,-2056.02,2806.9)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:468.477px;">v<tspan x="2764.11px 2840.82px 3062.18px 3272.41px 3531.83px 3630.79px 3721.56px 3932.38px 4154.9px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">isualize </tspan>bo<tspan x="4711.8px 4876.36px 5094.78px 5192.58px 5427.99px 5523.44px 5760.02px 5973.18px 6203.9px 6301.7px 6530.67px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">th sides of</tspan></text>
+        </g>
+        <g transform="matrix(0.918604,0,0,0.889407,-174.505,3321.52)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:468.477px;">t<tspan x="2690.91px 2909.34px " y="2890.25px 2890.25px ">he</tspan> a<tspan x="3489.08px 3647.78px 3886.11px 4110.4px 4448.87px 4671.4px 4896.85px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">rgument</tspan></text>
+        </g>
+        <g id="it-represents-the-decision" serif:id="it represents the decision" transform="matrix(0.894716,-0.446636,0.446636,0.894716,3198.93,6006.66)">
+            <g transform="matrix(0.289914,0.493791,-0.405874,0.229518,1365.16,-2856.69)">
+                <path d="M696.288,6124.04C787.985,6047.7 894.88,5969.8 990.77,5885.65C1091.05,5797.64 1199.6,5705.99 1301.06,5619.3C1372.17,5558.53 1448.82,5502.66 1522.54,5445.25C1583.04,5398.13 1667.84,5337.86 1738.33,5285" style="fill:none;stroke:rgb(255,9,0);stroke-width:71.12px;"/>
+            </g>
+            <g transform="matrix(0.288232,0.494737,-0.40707,0.227473,1332.64,-2740.85)">
+                <path d="M635.072,6051.71C635.772,6052.55 636.085,6049.76 636.779,6048.92C644.825,6039.17 657.683,6032.28 667.806,6025.06C700.921,6001.45 732.106,5975.48 763.516,5949.68C834.798,5891.13 905.87,5832.51 975.559,5772.05C1201.98,5575.62 1430.16,5374.03 1678.62,5205.43" style="fill:rgb(255,0,16);stroke:rgb(255,11,0);stroke-width:71.18px;"/>
+            </g>
+        </g>
+    </g>
+    <g id="this-bit-takes-ages" serif:id="this bit takes ages" transform="matrix(0.757744,0.0178236,-0.0267202,0.70059,3970.62,665.284)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 644.437,2562.62 644.501,2566.08C647.891,2748.29 649.891,2837.59 658.277,2976.31C663.918,3069.62 686.704,3200.57 685.517,3338.78C683.397,3585.43 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1256.82,2538.19 1228.23,2539.93C912.707,2559.18 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.922519,-0.0602586,0.0618294,0.920456,-4288.68,-818.08)">
+            <g transform="matrix(0.995625,0,0,1,23.213,0)">
+                <text x="5305.82px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">t<tspan x="5442.05px 5643.83px 5707.31px 5898.34px 5979.34px 6189.81px 6248.91px " y="4575.68px 4575.68px 4575.68px 4575.68px 4575.68px 4575.68px 4575.68px ">his bit</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.6814,0)">
+                <text x="5412.9px" y="4950.22px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">t<tspan x="5530.62px 5742.03px 5917.42px 6093.88px " y="4950.22px 4950.22px 4950.22px 4950.22px ">akes</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.6091,0)">
+                <text x="5396.37px" y="5324.76px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">a</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,24.5236,0)">
+                <text x="5605.4px" y="5324.76px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">g</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,25.3832,0)">
+                <text x="5801.87px" y="5324.76px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">e</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,26.1518,0)">
+                <text x="5977.55px" y="5324.76px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:387.782px;">s!</text>
+            </g>
+        </g>
+    </g>
+    <g id="where-does-this-data-come-from-" serif:id="where does this data come from?" transform="matrix(0.756132,0.0525253,-0.0587936,0.698629,5289.77,833.331)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 644.656,2547.36 644.501,2566.08C642.09,2857.43 649.718,2971.67 685.517,3338.78C709.456,3584.27 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1674.09,2527.02 1645.5,2528.77C1329.97,2548.01 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.922519,-0.0602586,0.0618294,0.920456,-4311.87,-980.229)">
+            <g transform="matrix(0.995625,0,0,1,23.8472,0)">
+                <text x="5450.79px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">whe<tspan x="5977.51px 6093.53px " y="4575.68px 4575.68px ">re</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,22.9772,0)">
+                <text x="5251.93px" y="4927.65px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">doe<tspan x="5728.66px 5887.45px 5954.78px 6068px 6235.73px 6288.49px " y="4927.65px 4927.65px 4927.65px 4927.65px 4927.65px 4927.65px ">s this</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,22.6055,0)">
+                <text x="5166.96px" y="5279.63px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">d<tspan x="5320.47px 5480.41px 5578.26px 5750.74px " y="5279.63px 5279.63px 5279.63px 5279.63px ">ata </tspan>co<tspan x="6146.92px 6379.85px " y="5279.63px 5279.63px ">me</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.6911,0)">
+                <text x="5415.11px" y="5631.61px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">f<tspan x="5537.61px 5650.39px 5817.63px " y="5631.61px 5631.61px 5631.61px ">rom</tspan>?</text>
+            </g>
+        </g>
+    </g>
+    <g id="could-be-this-thing-or-that-thing" serif:id="could be this thing or that thing" transform="matrix(0.756132,0.0525253,-0.0587936,0.698629,4367.42,3367.53)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 644.656,2547.36 644.501,2566.08C642.09,2857.43 649.718,2971.67 685.517,3338.78C709.456,3584.27 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1674.09,2527.02 1645.5,2528.77C1329.97,2548.01 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.922519,-0.0602586,0.0618294,0.920456,-4300.25,-994.883)">
+            <g transform="matrix(0.995625,0,0,1,23.1736,0)">
+                <text x="5296.83px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">co<tspan x="5634.18px 5788.56px 5853.47px " y="4575.68px 4575.68px 4575.68px ">uld</tspan> b<tspan x="6248.84px " y="4575.68px ">e</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,22.8752,0)">
+                <text x="5228.61px" y="4927.65px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">t<tspan x="5341.84px 5509.56px 5562.33px 5721.11px 5788.44px 5901.67px 6069.39px 6135.11px " y="4927.65px 4927.65px 4927.65px 4927.65px 4927.65px 4927.65px 4927.65px 4927.65px ">his thin</tspan>g</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.6058,0)">
+                <text x="5395.61px" y="5279.63px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">or <tspan x="5759.15px 5872.38px 6022.7px 6182.64px " y="5279.63px 5279.63px 5279.63px 5279.63px ">that</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,24.0944,0)">
+                <text x="5507.3px" y="5631.61px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">t<tspan x="5620.53px 5788.25px 5853.97px " y="5631.61px 5631.61px 5631.61px ">hin</tspan>g</text>
+            </g>
+        </g>
+    </g>
+    <g id="_-" serif:id="?" transform="matrix(0.753623,-0.0809095,0.0646528,0.698112,5143.24,2313.21)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 644.656,2547.36 644.501,2566.08C642.09,2857.43 649.718,2971.67 685.517,3338.78C709.456,3584.27 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1674.09,2527.02 1645.5,2528.77C1329.97,2548.01 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.918483,-0.059995,0.0618294,0.920456,-4221.14,-114.926)">
+            <text x="5380.84px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:1289.3px;">?</text>
+        </g>
+    </g>
+    <g id="jeff-does-this" serif:id="jeff does this" transform="matrix(0.756132,0.0525253,-0.0587936,0.698629,3427.25,1784.29)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 643.335,2547.4 644.501,2566.08C663.49,2870.38 688.47,2995.12 685.517,3338.78C683.397,3585.43 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1674.09,2527.02 1645.5,2528.77C1329.97,2548.01 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.922519,-0.0602586,0.0618294,0.920456,-4310.31,-829.682)">
+            <g transform="matrix(0.995625,0,0,1,23.7833,0)">
+                <text x="5436.17px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:483.487px;">J</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,24.8613,0)">
+                <text x="5682.58px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:483.487px;">ef<tspan x="6066.9px " y="4575.68px ">f</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.5045,0)">
+                <text x="5372.45px" y="5024.35px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:483.487px;">do<tspan x="5867.54px 6087.55px " y="5024.35px 5024.35px ">es</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.9717,0)">
+                <text x="5479.24px" y="5473.03px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:483.487px;">t<tspan x="5649.08px 5900.67px 5979.82px " y="5473.03px 5473.03px 5473.03px ">his</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g id="no-one-really-understands-this" serif:id="no one really understands this" transform="matrix(0.699774,0.291223,-0.278801,0.64328,5370.42,1718.22)">
+        <g transform="matrix(-0.99964,0.0268126,-0.0268126,-0.99964,2878.88,6497.48)">
+            <path d="M644.501,2566.08C644.501,2566.08 643.335,2547.4 644.501,2566.08C663.49,2870.38 688.47,2995.12 685.517,3338.78C683.397,3585.43 702.337,4022.68 711.847,4026.46C731.534,4034.27 1256.76,4027.17 1275.54,4026.26C1444.97,4018.07 2152.22,4020.27 2162.99,4001.06C2169.9,3988.74 2139.54,3650.06 2138.34,3639.5C2129.56,3562.62 2102.73,3146.19 2108.11,3050.91C2112.74,2969.15 2076.54,2517.91 2069.94,2517.96C2033.46,2518.26 1674.09,2527.02 1645.5,2528.77C1329.97,2548.01 1007.89,2566.08 644.501,2566.08Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:57.37px;"/>
+        </g>
+        <g transform="matrix(0.922519,-0.0602586,0.0618294,0.920456,-4307.71,-986.487)">
+            <g transform="matrix(0.995625,0,0,1,23.6241,0)">
+                <text x="5399.8px" y="4575.68px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">no <tspan x="5806.05px " y="4575.68px ">o</tspan>ne</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,23.9488,0)">
+                <text x="5474.01px" y="4922.5px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">re<tspan x="5756.12px 5928.61px 5993.52px 6058.42px " y="4922.5px 4922.5px 4922.5px 4922.5px ">ally</tspan></text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,22.5289,0)">
+                <text x="5149.46px" y="5269.32px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:264.306px;">un<tspan x="5411.52px " y="5269.32px ">d</tspan>ers<tspan x="5906.57px 6004.72px 6146.16px 6286.94px " y="5269.32px 5269.32px 5269.32px 5269.32px ">tand</tspan>s</text>
+            </g>
+            <g transform="matrix(0.995625,0,0,1,24.5035,0)">
+                <text x="5600.81px" y="5616.14px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:322.325px;">th<tspan x="5870.84px 5936.55px " y="5616.14px 5616.14px ">is</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g id="system" transform="matrix(0.829356,0,0,0.789641,262.575,6770.37)">
+        <g transform="matrix(1.49466,0,0,0.801091,-610.247,707.067)">
+            <path d="M596.341,2509.6C596.341,2509.6 595.29,2500.93 596.456,2519.61C615.445,2823.92 610.007,3064.77 621.044,3371.47C630.754,3641.26 633.741,4005.16 638.329,4025.96C645.989,4060.69 1455.42,4027.24 1474.21,4026.33C1643.64,4018.13 2073.18,4056.77 2072.07,4029.04C2070.9,3999.77 2059.4,3291.64 2052.88,3196.31C2050.72,3164.66 2040.11,2508.86 2033.51,2508.91C1997.03,2509.21 1445.46,2519.92 1219.22,2511.85C848.143,2498.6 959.731,2509.6 596.341,2509.6Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:42.34px;"/>
+        </g>
+        <g transform="matrix(1.10761,0,0,1.12634,-2148.28,216.071)">
+            <text x="2526.36px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:468.477px;">s<tspan x="2743.03px 2968.48px 3199.21px 3359.08px 3581.6px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">ystem</tspan></text>
+        </g>
+    </g>
+    <g id="payment-provider" serif:id="payment provider" transform="matrix(0.829356,0,0,0.789641,2787,7398.72)">
+        <g transform="matrix(1.49466,0,0,0.801091,-610.247,707.067)">
+            <path d="M596.341,2509.6C596.341,2509.6 595.29,2500.93 596.456,2519.61C615.445,2823.92 610.007,3064.77 621.044,3371.47C630.754,3641.26 633.741,4005.16 638.329,4025.96C645.989,4060.69 1455.42,4027.24 1474.21,4026.33C1643.64,4018.13 2073.18,4056.77 2072.07,4029.04C2070.9,3999.77 2059.4,3291.64 2052.88,3196.31C2050.72,3164.66 2040.11,2508.86 2033.51,2508.91C1997.03,2509.21 1445.46,2519.92 1219.22,2511.85C848.143,2498.6 959.731,2509.6 596.341,2509.6Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:42.34px;"/>
+        </g>
+        <g transform="matrix(1.10761,0,0,1.12634,-2339.35,-74.9205)">
+            <text x="2694.37px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:374.782px;">p<tspan x="2874.26px 3074.77px 3270.12px 3540.9px 3718.93px 3899.29px " y="2890.25px 2890.25px 2890.25px 2890.25px 2890.25px 2890.25px ">ayment</tspan></text>
+            <text x="2720.13px" y="3302.04px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:374.782px;">pr<tspan x="3041.98px 3228.9px 3419.1px 3495.46px " y="3302.04px 3302.04px 3302.04px 3302.04px ">ovid</tspan>er</text>
+        </g>
+    </g>
+    <g id="mail-server" serif:id="mail server" transform="matrix(0.829356,0,0,0.789641,4705.18,7399.37)">
+        <g transform="matrix(1.49466,0,0,0.801091,-610.247,707.067)">
+            <path d="M596.341,2509.6C596.341,2509.6 595.29,2500.93 596.456,2519.61C615.445,2823.92 610.007,3064.77 621.044,3371.47C630.754,3641.26 633.741,4005.16 638.329,4025.96C645.989,4060.69 1455.42,4027.24 1474.21,4026.33C1643.64,4018.13 2073.18,4056.77 2072.07,4029.04C2070.9,3999.77 2059.4,3291.64 2052.88,3196.31C2050.72,3164.66 2040.11,2508.86 2033.51,2508.91C1997.03,2509.21 1445.46,2519.92 1219.22,2511.85C848.143,2498.6 959.731,2509.6 596.341,2509.6Z" style="fill:rgb(255,96,249);stroke:black;stroke-width:42.34px;"/>
+        </g>
+        <g transform="matrix(1.10761,0,0,1.12634,-2338.37,17.3892)">
+            <text x="3015.39px" y="2890.25px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:421.629px;">m<tspan x="3313.17px 3546.64px 3632.55px " y="2890.25px 2890.25px 2890.25px ">ail</tspan></text>
+            <text x="2801.41px" y="3302.04px" style="font-family:'Noteworthy-Bold', 'Noteworthy';font-weight:700;font-size:421.629px;">s<tspan x="3000.63px 3200.91px 3369.56px 3562.45px 3762.73px " y="3302.04px 3302.04px 3302.04px 3302.04px 3302.04px ">erver</tspan></text>
+        </g>
+    </g>
+</svg>
